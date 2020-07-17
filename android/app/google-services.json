@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "194722607126",
+    "firebase_url": "https://arproject-2303c.firebaseio.com",
+    "project_id": "arproject-2303c",
+    "storage_bucket": "arproject-2303c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194722607126:android:fe4ede9f874b9e38f3c537",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194722607126-degt9027c4u4ao9r00pallg6mav2armp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project",
+            "certificate_hash": "4a7925a495853d1b09335bca3d2a3d0514b25628"
+          }
+        },
+        {
+          "client_id": "194722607126-s6mijr5htj7veb6c32hqpphkrq8sejms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project",
+            "certificate_hash": "dd885cb087cdba92f790341389c3b20f138d9fe3"
+          }
+        },
+        {
+          "client_id": "194722607126-iirt224ao2gun3eafdndtm4j8me8k8h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project",
+            "certificate_hash": "7c8dded2bad9714d8fa3b51170f9c2da2219eb4a"
+          }
+        },
+        {
+          "client_id": "194722607126-oinruqqu8mraa7kl5f6qpq3fr47v79kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NFGDqzlA7HBZ0W07Z2nqpMPy3HpyJHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194722607126-oinruqqu8mraa7kl5f6qpq3fr47v79kq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194722607126-doffa8fartdot0udmjegiuj8ge4app68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.celadon.arproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

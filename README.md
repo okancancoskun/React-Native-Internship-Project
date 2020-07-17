@@ -1,14 +1,8 @@
-### Build instructions
+Open the AR_Project directory.
 
-```
-1.Open this folder directory
-2.Run npm install in hello-react-native. This should download and create the directories for the project.
-3.Run npm run start to start the server to deliver the bundle url. Make sure this is running before you start your application.
+Installation :
+Run npm install in AR_Project. The directories will be installed for the project after you do that.
 
-4.Also you can open your Android or Ios device emulator and you can write react-native run-android instead of writing npm start
-```
-
-
-
-
-
+Start App:
+You should open your emulator.
+After that open the terminal and go to directory of project.Then run "react-native run-android" or "react-native run-ios"

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_154sdp"
+        android:id="@+id/aug"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="@dimen/_75sdp"
+        android:layout_marginLeft="@dimen/_75sdp"
+        android:layout_marginTop="@dimen/_119sdp"
+        android:layout_marginEnd="@dimen/_73sdp"
+        android:layout_marginRight="@dimen/_75sdp"
+        android:layout_marginBottom="@dimen/_100sdp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/aug" />
+
+    <ImageView
+        android:id="@+id/celadon"
+        android:layout_width="@dimen/_36sdp"
+        android:layout_height="@dimen/_41sdp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="@dimen/_80sdp"
+        android:layout_marginLeft="@dimen/_80sdp"
+        android:layout_marginEnd="@dimen/_80sdp"
+        android:layout_marginRight="@dimen/_80sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:src="@drawable/celadon" />
+</RelativeLayout>
